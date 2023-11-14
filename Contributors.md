@@ -1142,6 +1142,7 @@ aj
 - [Athanlaich He](https://github.com/Athanlaich)
 - [Suhiteswarch](https://github.com/suhit123)
 - [Chavi](https://github.com/ChaviSchatz)
+- [Alessandro Di Turi](https://github.com/alessandrodituri)
 - [Gurshaan](https://github.com/GurshaanK)
 - [Romit Sutariya](https://github.com/romitsutariya)
 - [Sammie](https://github.com/1AmSammi3)
